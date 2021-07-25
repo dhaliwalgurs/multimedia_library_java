@@ -1,0 +1,21 @@
+{
+    "name": "Media Library",
+    "media": [
+        {
+            "artist": "Joji",
+            "year": 2018,
+            "genre": "Pop",
+            "rating": 10,
+            "numSongs": 12,
+            "title": "Ballads 1"
+        },
+        {
+            "artist": "Stevie Wonder",
+            "year": 1973,
+            "genre": "Soul",
+            "rating": 10,
+            "numSongs": 9,
+            "title": "Innervisions"
+        }
+    ]
+}
